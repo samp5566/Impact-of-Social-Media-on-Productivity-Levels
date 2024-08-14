@@ -1,6 +1,10 @@
 # Impact-of-Social-Media-on-Productivity-Levels
 Project Description: This is a Power BI project where analysis of users’ productivity levels on social media usage is done to understand the extent of productivity loss and to identify social media usage patterns. It also includes users background and their behavior to examine how these factors influence social media platforms handling ultimately leading to productivity loss. The data is taken from Kaggle https://www.kaggle.com/datasets/muhammadroshaanriaz/time-wasters-on-social-media 
 
+![Users Overview](https://github.com/user-attachments/assets/ff442273-f049-4fac-8f52-a080c5638f74)
+
+![Productivity loss](https://github.com/user-attachments/assets/5ddb1166-e10c-432d-a64c-82833d490721)
+
 Problem Statement:
 In today’s digital life, social media plays a huge role in distraction of user’s time management and productivity. However, there is a need to identify social media usage patterns and the extent to which social media affects users’ productivity. Depending upon users’ profile and their behavior, the challenge lies in interpreting the data effectively to draw meaningful conclusions that can inform strategies to mitigate negative impact of social media on users’ daily routines and productivity levels. 
 
